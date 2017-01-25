@@ -1,0 +1,12 @@
+## Interface: 11200
+## Title: SaySapped
+## Version: 1.0 - 2016-12-22
+## Notes: Says "Sapped!" to alert those around you whenever a rogue saps you.
+## Author: Coax - Anathema PvP, Original idea: Bitbyte of Icecrown
+## SavedVariablesPerCharacter: SaySappedConfig
+
+SaySapped.xml
+SaySapped.lua
+
+
+
