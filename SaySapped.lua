@@ -48,5 +48,5 @@ end
 function SaySapped_OnLoad()
 	SaySapped:RegisterEvent("PLAYER_ENTERING_WORLD")
 	SaySapped:RegisterEvent("CHAT_MSG_SPELL_PERIODIC_SELF_DAMAGE")
-	DEFAULT_CHAT_FRAME:AddMessage("SaySapped loaded, type /saysapped to toggle on and off.")
+	DEFAULT_CHAT_FRAME:AddMessage("SaySapped loaded, type /saysapped to toggle on and off. Made by Coax.")
 end
